@@ -1,0 +1,208 @@
+2025-11-20 23:07:54,475 [INFO] Inicio del proceso de scraping
+2025-11-20 23:07:54,485 [INFO] GET https://books.toscrape.com/
+2025-11-20 23:07:56,690 [INFO] Página 1: 20 libros encontrados
+2025-11-20 23:07:56,691 [INFO] GET https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2025-11-20 23:07:58,366 [INFO] Insertado [1] A Light in the Attic
+2025-11-20 23:07:58,367 [INFO] GET https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+2025-11-20 23:08:00,158 [INFO] Insertado [2] Tipping the Velvet
+2025-11-20 23:08:00,159 [INFO] GET https://books.toscrape.com/catalogue/soumission_998/index.html
+2025-11-20 23:08:01,979 [INFO] Insertado [3] Soumission
+2025-11-20 23:08:01,979 [INFO] GET https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+2025-11-20 23:08:03,739 [INFO] Insertado [4] Sharp Objects
+2025-11-20 23:08:03,739 [INFO] GET https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+2025-11-20 23:08:05,542 [INFO] Insertado [5] Sapiens: A Brief History of Humankind
+2025-11-20 23:08:05,543 [INFO] GET https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+2025-11-20 23:08:07,299 [INFO] Insertado [6] The Requiem Red
+2025-11-20 23:08:07,299 [INFO] GET https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+2025-11-20 23:08:09,048 [INFO] Insertado [7] The Dirty Little Secrets of Getting Your Dream Job
+2025-11-20 23:08:09,048 [INFO] GET https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+2025-11-20 23:08:10,862 [INFO] Insertado [8] The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+2025-11-20 23:08:10,862 [INFO] GET https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+2025-11-20 23:08:12,672 [INFO] Insertado [9] The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+2025-11-20 23:08:12,672 [INFO] GET https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+2025-11-20 23:08:14,454 [INFO] Insertado [10] The Black Maria
+2025-11-20 23:08:14,454 [INFO] GET https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html
+2025-11-20 23:08:16,155 [INFO] Insertado [11] Starving Hearts (Triangular Trade Trilogy, #1)
+2025-11-20 23:08:16,155 [INFO] GET https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html
+2025-11-20 23:08:17,909 [INFO] Insertado [12] Shakespeare's Sonnets
+2025-11-20 23:08:17,909 [INFO] GET https://books.toscrape.com/catalogue/set-me-free_988/index.html
+2025-11-20 23:08:19,652 [INFO] Insertado [13] Set Me Free
+2025-11-20 23:08:19,652 [INFO] GET https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html
+2025-11-20 23:08:21,514 [INFO] Insertado [14] Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+2025-11-20 23:08:21,514 [INFO] GET https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html
+2025-11-20 23:08:23,263 [INFO] Insertado [15] Rip it Up and Start Again
+2025-11-20 23:08:23,263 [INFO] GET https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html
+2025-11-20 23:08:25,070 [INFO] Insertado [16] Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+2025-11-20 23:08:25,071 [INFO] GET https://books.toscrape.com/catalogue/olio_984/index.html
+2025-11-20 23:08:26,879 [INFO] Insertado [17] Olio
+2025-11-20 23:08:26,879 [INFO] GET https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html
+2025-11-20 23:08:28,757 [INFO] Insertado [18] Mesaerion: The Best Science Fiction Stories 1800-1849
+2025-11-20 23:08:28,758 [INFO] GET https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html
+2025-11-20 23:08:30,561 [INFO] Insertado [19] Libertarianism for Beginners
+2025-11-20 23:08:30,561 [INFO] GET https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html
+2025-11-20 23:08:32,503 [INFO] Insertado [20] It's Only the Himalayas
+2025-11-20 23:08:32,504 [INFO] GET https://books.toscrape.com/catalogue/page-2.html
+2025-11-20 23:08:34,451 [INFO] Página 2: 20 libros encontrados
+2025-11-20 23:08:34,451 [INFO] GET https://books.toscrape.com/in-her-wake_980/index.html
+2025-11-20 23:08:35,226 [ERROR] Error al solicitar https://books.toscrape.com/in-her-wake_980/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/in-her-wake_980/index.html
+2025-11-20 23:08:35,230 [WARNING] No se pudo obtener detalle para 'In Her Wake'
+2025-11-20 23:08:35,243 [INFO] Insertado [21] In Her Wake
+2025-11-20 23:08:35,243 [INFO] GET https://books.toscrape.com/how-music-works_979/index.html
+2025-11-20 23:08:35,908 [ERROR] Error al solicitar https://books.toscrape.com/how-music-works_979/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/how-music-works_979/index.html
+2025-11-20 23:08:35,912 [WARNING] No se pudo obtener detalle para 'How Music Works'
+2025-11-20 23:08:35,923 [INFO] Insertado [22] How Music Works
+2025-11-20 23:08:35,925 [INFO] GET https://books.toscrape.com/foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978/index.html
+2025-11-20 23:08:36,625 [ERROR] Error al solicitar https://books.toscrape.com/foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978/index.html
+2025-11-20 23:08:36,627 [WARNING] No se pudo obtener detalle para 'Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More'
+2025-11-20 23:08:36,639 [INFO] Insertado [23] Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More
+2025-11-20 23:08:36,639 [INFO] GET https://books.toscrape.com/chase-me-paris-nights-2_977/index.html
+2025-11-20 23:08:37,315 [ERROR] Error al solicitar https://books.toscrape.com/chase-me-paris-nights-2_977/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/chase-me-paris-nights-2_977/index.html
+2025-11-20 23:08:37,319 [WARNING] No se pudo obtener detalle para 'Chase Me (Paris Nights #2)'
+2025-11-20 23:08:37,330 [INFO] Insertado [24] Chase Me (Paris Nights #2)
+2025-11-20 23:08:37,331 [INFO] GET https://books.toscrape.com/black-dust_976/index.html
+2025-11-20 23:08:37,983 [ERROR] Error al solicitar https://books.toscrape.com/black-dust_976/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/black-dust_976/index.html
+2025-11-20 23:08:37,985 [WARNING] No se pudo obtener detalle para 'Black Dust'
+2025-11-20 23:08:37,990 [INFO] Insertado [25] Black Dust
+2025-11-20 23:08:37,991 [INFO] GET https://books.toscrape.com/birdsong-a-story-in-pictures_975/index.html
+2025-11-20 23:08:38,765 [ERROR] Error al solicitar https://books.toscrape.com/birdsong-a-story-in-pictures_975/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/birdsong-a-story-in-pictures_975/index.html
+2025-11-20 23:08:38,768 [WARNING] No se pudo obtener detalle para 'Birdsong: A Story in Pictures'
+2025-11-20 23:08:38,773 [INFO] Insertado [26] Birdsong: A Story in Pictures
+2025-11-20 23:08:38,775 [INFO] GET https://books.toscrape.com/americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html
+2025-11-20 23:08:39,543 [ERROR] Error al solicitar https://books.toscrape.com/americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html
+2025-11-20 23:08:39,547 [WARNING] No se pudo obtener detalle para 'America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana'
+2025-11-20 23:08:39,559 [INFO] Insertado [27] America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana
+2025-11-20 23:08:39,559 [INFO] GET https://books.toscrape.com/aladdin-and-his-wonderful-lamp_973/index.html
+2025-11-20 23:08:40,256 [ERROR] Error al solicitar https://books.toscrape.com/aladdin-and-his-wonderful-lamp_973/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/aladdin-and-his-wonderful-lamp_973/index.html
+2025-11-20 23:08:40,259 [WARNING] No se pudo obtener detalle para 'Aladdin and His Wonderful Lamp'
+2025-11-20 23:08:40,268 [INFO] Insertado [28] Aladdin and His Wonderful Lamp
+2025-11-20 23:08:40,268 [INFO] GET https://books.toscrape.com/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html
+2025-11-20 23:08:40,927 [ERROR] Error al solicitar https://books.toscrape.com/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html
+2025-11-20 23:08:40,931 [WARNING] No se pudo obtener detalle para 'Worlds Elsewhere: Journeys Around Shakespeareâs Globe'
+2025-11-20 23:08:40,938 [INFO] Insertado [29] Worlds Elsewhere: Journeys Around Shakespeareâs Globe
+2025-11-20 23:08:40,938 [INFO] GET https://books.toscrape.com/wall-and-piece_971/index.html
+2025-11-20 23:08:41,635 [ERROR] Error al solicitar https://books.toscrape.com/wall-and-piece_971/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/wall-and-piece_971/index.html
+2025-11-20 23:08:41,639 [WARNING] No se pudo obtener detalle para 'Wall and Piece'
+2025-11-20 23:08:41,647 [INFO] Insertado [30] Wall and Piece
+2025-11-20 23:08:41,647 [INFO] GET https://books.toscrape.com/the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html
+2025-11-20 23:08:42,302 [ERROR] Error al solicitar https://books.toscrape.com/the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html
+2025-11-20 23:08:42,304 [WARNING] No se pudo obtener detalle para 'The Four Agreements: A Practical Guide to Personal Freedom'
+2025-11-20 23:08:42,308 [INFO] Insertado [31] The Four Agreements: A Practical Guide to Personal Freedom
+2025-11-20 23:08:42,308 [INFO] GET https://books.toscrape.com/the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969/index.html
+2025-11-20 23:08:43,107 [ERROR] Error al solicitar https://books.toscrape.com/the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969/index.html
+2025-11-20 23:08:43,109 [WARNING] No se pudo obtener detalle para 'The Five Love Languages: How to Express Heartfelt Commitment to Your Mate'
+2025-11-20 23:08:43,114 [INFO] Insertado [32] The Five Love Languages: How to Express Heartfelt Commitment to Your Mate
+2025-11-20 23:08:43,114 [INFO] GET https://books.toscrape.com/the-elephant-tree_968/index.html
+2025-11-20 23:08:43,950 [ERROR] Error al solicitar https://books.toscrape.com/the-elephant-tree_968/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/the-elephant-tree_968/index.html
+2025-11-20 23:08:43,953 [WARNING] No se pudo obtener detalle para 'The Elephant Tree'
+2025-11-20 23:08:43,957 [INFO] Insertado [33] The Elephant Tree
+2025-11-20 23:08:43,957 [INFO] GET https://books.toscrape.com/the-bear-and-the-piano_967/index.html
+2025-11-20 23:08:44,595 [ERROR] Error al solicitar https://books.toscrape.com/the-bear-and-the-piano_967/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/the-bear-and-the-piano_967/index.html
+2025-11-20 23:08:44,599 [WARNING] No se pudo obtener detalle para 'The Bear and the Piano'
+2025-11-20 23:08:44,603 [INFO] Insertado [34] The Bear and the Piano
+2025-11-20 23:08:44,603 [INFO] GET https://books.toscrape.com/sophies-world_966/index.html
+2025-11-20 23:08:45,386 [ERROR] Error al solicitar https://books.toscrape.com/sophies-world_966/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/sophies-world_966/index.html
+2025-11-20 23:08:45,389 [WARNING] No se pudo obtener detalle para 'Sophie's World'
+2025-11-20 23:08:45,394 [INFO] Insertado [35] Sophie's World
+2025-11-20 23:08:45,394 [INFO] GET https://books.toscrape.com/penny-maybe_965/index.html
+2025-11-20 23:08:46,205 [ERROR] Error al solicitar https://books.toscrape.com/penny-maybe_965/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/penny-maybe_965/index.html
+2025-11-20 23:08:46,209 [WARNING] No se pudo obtener detalle para 'Penny Maybe'
+2025-11-20 23:08:46,216 [INFO] Insertado [36] Penny Maybe
+2025-11-20 23:08:46,218 [INFO] GET https://books.toscrape.com/maude-1883-1993she-grew-up-with-the-country_964/index.html
+2025-11-20 23:08:47,038 [ERROR] Error al solicitar https://books.toscrape.com/maude-1883-1993she-grew-up-with-the-country_964/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/maude-1883-1993she-grew-up-with-the-country_964/index.html
+2025-11-20 23:08:47,040 [WARNING] No se pudo obtener detalle para 'Maude (1883-1993):She Grew Up with the country'
+2025-11-20 23:08:47,047 [INFO] Insertado [37] Maude (1883-1993):She Grew Up with the country
+2025-11-20 23:08:47,048 [INFO] GET https://books.toscrape.com/in-a-dark-dark-wood_963/index.html
+2025-11-20 23:08:47,915 [ERROR] Error al solicitar https://books.toscrape.com/in-a-dark-dark-wood_963/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/in-a-dark-dark-wood_963/index.html
+2025-11-20 23:08:47,919 [WARNING] No se pudo obtener detalle para 'In a Dark, Dark Wood'
+2025-11-20 23:08:47,930 [INFO] Insertado [38] In a Dark, Dark Wood
+2025-11-20 23:08:47,931 [INFO] GET https://books.toscrape.com/behind-closed-doors_962/index.html
+2025-11-20 23:08:48,637 [ERROR] Error al solicitar https://books.toscrape.com/behind-closed-doors_962/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/behind-closed-doors_962/index.html
+2025-11-20 23:08:48,644 [WARNING] No se pudo obtener detalle para 'Behind Closed Doors'
+2025-11-20 23:08:48,656 [INFO] Insertado [39] Behind Closed Doors
+2025-11-20 23:08:48,657 [INFO] GET https://books.toscrape.com/you-cant-bury-them-all-poems_961/index.html
+2025-11-20 23:08:49,319 [ERROR] Error al solicitar https://books.toscrape.com/you-cant-bury-them-all-poems_961/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/you-cant-bury-them-all-poems_961/index.html
+2025-11-20 23:08:49,323 [WARNING] No se pudo obtener detalle para 'You can't bury them all: Poems'
+2025-11-20 23:08:49,335 [INFO] Insertado [40] You can't bury them all: Poems
+2025-11-20 23:08:49,336 [INFO] GET https://books.toscrape.com/catalogue/page-3.html
+2025-11-20 23:08:51,340 [INFO] Página 3: 20 libros encontrados
+2025-11-20 23:08:51,341 [INFO] GET https://books.toscrape.com/slow-states-of-collapse-poems_960/index.html
+2025-11-20 23:08:52,218 [ERROR] Error al solicitar https://books.toscrape.com/slow-states-of-collapse-poems_960/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/slow-states-of-collapse-poems_960/index.html
+2025-11-20 23:08:52,222 [WARNING] No se pudo obtener detalle para 'Slow States of Collapse: Poems'
+2025-11-20 23:08:52,237 [INFO] Insertado [41] Slow States of Collapse: Poems
+2025-11-20 23:08:52,239 [INFO] GET https://books.toscrape.com/reasons-to-stay-alive_959/index.html
+2025-11-20 23:08:52,964 [ERROR] Error al solicitar https://books.toscrape.com/reasons-to-stay-alive_959/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/reasons-to-stay-alive_959/index.html
+2025-11-20 23:08:52,967 [WARNING] No se pudo obtener detalle para 'Reasons to Stay Alive'
+2025-11-20 23:08:52,977 [INFO] Insertado [42] Reasons to Stay Alive
+2025-11-20 23:08:52,978 [INFO] GET https://books.toscrape.com/private-paris-private-10_958/index.html
+2025-11-20 23:08:53,699 [ERROR] Error al solicitar https://books.toscrape.com/private-paris-private-10_958/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/private-paris-private-10_958/index.html
+2025-11-20 23:08:53,703 [WARNING] No se pudo obtener detalle para 'Private Paris (Private #10)'
+2025-11-20 23:08:53,709 [INFO] Insertado [43] Private Paris (Private #10)
+2025-11-20 23:08:53,711 [INFO] GET https://books.toscrape.com/higherselfie-wake-up-your-life-free-your-soul-find-your-tribe_957/index.html
+2025-11-20 23:08:54,323 [ERROR] Error al solicitar https://books.toscrape.com/higherselfie-wake-up-your-life-free-your-soul-find-your-tribe_957/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/higherselfie-wake-up-your-life-free-your-soul-find-your-tribe_957/index.html
+2025-11-20 23:08:54,326 [WARNING] No se pudo obtener detalle para '#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.'
+2025-11-20 23:08:54,332 [INFO] Insertado [44] #HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.
+2025-11-20 23:08:54,332 [INFO] GET https://books.toscrape.com/without-borders-wanderlove-1_956/index.html
+2025-11-20 23:08:54,952 [ERROR] Error al solicitar https://books.toscrape.com/without-borders-wanderlove-1_956/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/without-borders-wanderlove-1_956/index.html
+2025-11-20 23:08:54,953 [WARNING] No se pudo obtener detalle para 'Without Borders (Wanderlove #1)'
+2025-11-20 23:08:54,955 [INFO] Insertado [45] Without Borders (Wanderlove #1)
+2025-11-20 23:08:54,955 [INFO] GET https://books.toscrape.com/when-we-collided_955/index.html
+2025-11-20 23:08:55,695 [ERROR] Error al solicitar https://books.toscrape.com/when-we-collided_955/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/when-we-collided_955/index.html
+2025-11-20 23:08:55,696 [WARNING] No se pudo obtener detalle para 'When We Collided'
+2025-11-20 23:08:55,701 [INFO] Insertado [46] When We Collided
+2025-11-20 23:08:55,702 [INFO] GET https://books.toscrape.com/we-love-you-charlie-freeman_954/index.html
+2025-11-20 23:08:56,400 [ERROR] Error al solicitar https://books.toscrape.com/we-love-you-charlie-freeman_954/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/we-love-you-charlie-freeman_954/index.html
+2025-11-20 23:08:56,400 [WARNING] No se pudo obtener detalle para 'We Love You, Charlie Freeman'
+2025-11-20 23:08:56,405 [INFO] Insertado [47] We Love You, Charlie Freeman
+2025-11-20 23:08:56,405 [INFO] GET https://books.toscrape.com/untitled-collection-sabbath-poems-2014_953/index.html
+2025-11-20 23:08:57,043 [ERROR] Error al solicitar https://books.toscrape.com/untitled-collection-sabbath-poems-2014_953/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/untitled-collection-sabbath-poems-2014_953/index.html
+2025-11-20 23:08:57,046 [WARNING] No se pudo obtener detalle para 'Untitled Collection: Sabbath Poems 2014'
+2025-11-20 23:08:57,053 [INFO] Insertado [48] Untitled Collection: Sabbath Poems 2014
+2025-11-20 23:08:57,053 [INFO] GET https://books.toscrape.com/unseen-city-the-majesty-of-pigeons-the-discreet-charm-of-snails-other-wonders-of-the-urban-wilderness_952/index.html
+2025-11-20 23:08:57,741 [ERROR] Error al solicitar https://books.toscrape.com/unseen-city-the-majesty-of-pigeons-the-discreet-charm-of-snails-other-wonders-of-the-urban-wilderness_952/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/unseen-city-the-majesty-of-pigeons-the-discreet-charm-of-snails-other-wonders-of-the-urban-wilderness_952/index.html
+2025-11-20 23:08:57,743 [WARNING] No se pudo obtener detalle para 'Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness'
+2025-11-20 23:08:57,750 [INFO] Insertado [49] Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness
+2025-11-20 23:08:57,752 [INFO] GET https://books.toscrape.com/unicorn-tracks_951/index.html
+2025-11-20 23:08:58,424 [ERROR] Error al solicitar https://books.toscrape.com/unicorn-tracks_951/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/unicorn-tracks_951/index.html
+2025-11-20 23:08:58,427 [WARNING] No se pudo obtener detalle para 'Unicorn Tracks'
+2025-11-20 23:08:58,436 [INFO] Insertado [50] Unicorn Tracks
+2025-11-20 23:08:58,437 [INFO] GET https://books.toscrape.com/unbound-how-eight-technologies-made-us-human-transformed-society-and-brought-our-world-to-the-brink_950/index.html
+2025-11-20 23:08:59,051 [ERROR] Error al solicitar https://books.toscrape.com/unbound-how-eight-technologies-made-us-human-transformed-society-and-brought-our-world-to-the-brink_950/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/unbound-how-eight-technologies-made-us-human-transformed-society-and-brought-our-world-to-the-brink_950/index.html
+2025-11-20 23:08:59,052 [WARNING] No se pudo obtener detalle para 'Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink'
+2025-11-20 23:08:59,057 [INFO] Insertado [51] Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink
+2025-11-20 23:08:59,057 [INFO] GET https://books.toscrape.com/tsubasa-world-chronicle-2-tsubasa-world-chronicle-2_949/index.html
+2025-11-20 23:08:59,762 [ERROR] Error al solicitar https://books.toscrape.com/tsubasa-world-chronicle-2-tsubasa-world-chronicle-2_949/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/tsubasa-world-chronicle-2-tsubasa-world-chronicle-2_949/index.html
+2025-11-20 23:08:59,763 [WARNING] No se pudo obtener detalle para 'Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)'
+2025-11-20 23:08:59,767 [INFO] Insertado [52] Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)
+2025-11-20 23:08:59,767 [INFO] GET https://books.toscrape.com/throwing-rocks-at-the-google-bus-how-growth-became-the-enemy-of-prosperity_948/index.html
+2025-11-20 23:09:00,538 [ERROR] Error al solicitar https://books.toscrape.com/throwing-rocks-at-the-google-bus-how-growth-became-the-enemy-of-prosperity_948/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/throwing-rocks-at-the-google-bus-how-growth-became-the-enemy-of-prosperity_948/index.html
+2025-11-20 23:09:00,539 [WARNING] No se pudo obtener detalle para 'Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity'
+2025-11-20 23:09:00,543 [INFO] Insertado [53] Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity
+2025-11-20 23:09:00,543 [INFO] GET https://books.toscrape.com/this-one-summer_947/index.html
+2025-11-20 23:09:01,204 [ERROR] Error al solicitar https://books.toscrape.com/this-one-summer_947/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/this-one-summer_947/index.html
+2025-11-20 23:09:01,206 [WARNING] No se pudo obtener detalle para 'This One Summer'
+2025-11-20 23:09:01,210 [INFO] Insertado [54] This One Summer
+2025-11-20 23:09:01,211 [INFO] GET https://books.toscrape.com/thirst_946/index.html
+2025-11-20 23:09:01,855 [ERROR] Error al solicitar https://books.toscrape.com/thirst_946/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/thirst_946/index.html
+2025-11-20 23:09:01,856 [WARNING] No se pudo obtener detalle para 'Thirst'
+2025-11-20 23:09:01,861 [INFO] Insertado [55] Thirst
+2025-11-20 23:09:01,861 [INFO] GET https://books.toscrape.com/the-torch-is-passed-a-harding-family-story_945/index.html
+2025-11-20 23:09:02,474 [ERROR] Error al solicitar https://books.toscrape.com/the-torch-is-passed-a-harding-family-story_945/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/the-torch-is-passed-a-harding-family-story_945/index.html
+2025-11-20 23:09:02,479 [WARNING] No se pudo obtener detalle para 'The Torch Is Passed: A Harding Family Story'
+2025-11-20 23:09:02,487 [INFO] Insertado [56] The Torch Is Passed: A Harding Family Story
+2025-11-20 23:09:02,489 [INFO] GET https://books.toscrape.com/the-secret-of-dreadwillow-carse_944/index.html
+2025-11-20 23:09:03,174 [ERROR] Error al solicitar https://books.toscrape.com/the-secret-of-dreadwillow-carse_944/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/the-secret-of-dreadwillow-carse_944/index.html
+2025-11-20 23:09:03,175 [WARNING] No se pudo obtener detalle para 'The Secret of Dreadwillow Carse'
+2025-11-20 23:09:03,180 [INFO] Insertado [57] The Secret of Dreadwillow Carse
+2025-11-20 23:09:03,180 [INFO] GET https://books.toscrape.com/the-pioneer-woman-cooks-dinnertime-comfort-classics-freezer-food-16-minute-meals-and-other-delicious-ways-to-solve-supper_943/index.html
+2025-11-20 23:09:03,951 [ERROR] Error al solicitar https://books.toscrape.com/the-pioneer-woman-cooks-dinnertime-comfort-classics-freezer-food-16-minute-meals-and-other-delicious-ways-to-solve-supper_943/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/the-pioneer-woman-cooks-dinnertime-comfort-classics-freezer-food-16-minute-meals-and-other-delicious-ways-to-solve-supper_943/index.html
+2025-11-20 23:09:03,954 [WARNING] No se pudo obtener detalle para 'The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!'
+2025-11-20 23:09:03,960 [INFO] Insertado [58] The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!
+2025-11-20 23:09:03,960 [INFO] GET https://books.toscrape.com/the-past-never-ends_942/index.html
+2025-11-20 23:09:04,695 [ERROR] Error al solicitar https://books.toscrape.com/the-past-never-ends_942/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/the-past-never-ends_942/index.html
+2025-11-20 23:09:04,697 [WARNING] No se pudo obtener detalle para 'The Past Never Ends'
+2025-11-20 23:09:04,705 [INFO] Insertado [59] The Past Never Ends
+2025-11-20 23:09:04,705 [INFO] GET https://books.toscrape.com/the-natural-history-of-us-the-fine-art-of-pretending-2_941/index.html
+2025-11-20 23:09:05,380 [ERROR] Error al solicitar https://books.toscrape.com/the-natural-history-of-us-the-fine-art-of-pretending-2_941/index.html: 404 Client Error: Not Found for url: https://books.toscrape.com/the-natural-history-of-us-the-fine-art-of-pretending-2_941/index.html
+2025-11-20 23:09:05,382 [WARNING] No se pudo obtener detalle para 'The Natural History of Us (The Fine Art of Pretending #2)'
+2025-11-20 23:09:05,388 [INFO] Insertado [60] The Natural History of Us (The Fine Art of Pretending #2)
+2025-11-20 23:09:05,390 [INFO] Fin del proceso. Libros insertados: 60. Detalles procesados: 20

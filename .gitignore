@@ -1,0 +1,97 @@
+# ============================
+#  ARCHIVOS DEL ENTORNO PYTHON
+# ============================
+
+# Entorno virtual
+venv/
+ENV/
+env/
+.venv/
+.python-version
+
+# Cache de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos generados por herramientas
+*.pyo
+*.pyd
+*.pdb
+
+# Archivos de configuración de compilación
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ============================
+#        BASE DE DATOS
+# ============================
+
+# SQLite database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Backups
+*.db-journal
+*.sqlite-journal
+
+# ============================
+#        LOGS
+# ============================
+
+*.log
+logs/
+scraper.log
+
+# ============================
+#        SISTEMA / OS
+# ============================
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Linux
+*.swp
+*.swo
+
+# ============================
+#        EDITORES
+# ============================
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# PyCharm / JetBrains
+.idea/
+
+# ============================
+#        ARCHIVOS EXPORTADOS
+# ============================
+
+# CSV, exports, dumps
+*.csv
+primeros_10_libros.csv
+
+# ============================
+#        OTROS
+# ============================
+
+# Comprimidos
+*.zip
+*.tar.gz
+*.7z
+
+# Archivos temporales
+temp/
+tmp/
+*.tmp
+
